@@ -2,7 +2,7 @@
 
 Thank you for your interest in `Smog`.
 
-This repository exists to distribute official `Smog` binary releases and to receive feedback from users. The source code is maintained privately by `EvolvBits` and is not open for direct contributions.
+This repository exists to distribute official `Smog` binary releases and to receive feedback from users. The source code is maintained privately by `OrbitBits` and is not open for direct contributions.
 
 ## How You Can Contribute
 
@@ -16,11 +16,11 @@ Please open an Issue in this repository with clear and detailed information.
 
 ## Security Reports
 
-If you identify a potential security issue, please avoid public disclosure. Contact `EvolvBits` privately so the matter can be handled responsibly.
+If you identify a potential security issue, please avoid public disclosure. Contact `OrbitBits` privately so the matter can be handled responsibly.
 
 ## Our Approach
 
-Keeping the source code private allows `EvolvBits` to ensure:
+Keeping the source code private allows `OrbitBits` to ensure:
 
 * Authentic and verifiable binary releases
 * A consistent and secure release process

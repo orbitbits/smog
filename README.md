@@ -2,17 +2,17 @@
 <!-- markdownlint-disable MD041 -->
 
 <p align="center">
-  <img style="border-radius: 5px;" src="https://raw.githubusercontent.com/evolvbits/smog/refs/heads/main/.github/logo/compact/smog-git.svg" alt="smog" width="180"/>
+  <img style="border-radius: 5px;" src="https://raw.githubusercontent.com/orbitbits/smog/refs/heads/main/.github/logo/compact/smog-git.svg" alt="smog" width="180"/>
 </p>
 
 <h1 align="center">Turn data into unreadable noise.</h1>
 
-[![CI](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/williamcanin/9cd2e99c8f6108b24fb04994bfe37644/raw/smog-ci.json)](https://github.com/evolvbits/smog/actions)
-[![Version](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/williamcanin/9cd2e99c8f6108b24fb04994bfe37644/raw/smog-version.json)](https://github.com/evolvbits/smog/tree/binaries)
+[![CI](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/williamcanin/9cd2e99c8f6108b24fb04994bfe37644/raw/smog-ci.json)](https://github.com/orbitbits/smog/actions)
+[![Version](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/williamcanin/9cd2e99c8f6108b24fb04994bfe37644/raw/smog-version.json)](https://github.com/orbitbits/smog/tree/binaries)
 ![Target](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/williamcanin/9cd2e99c8f6108b24fb04994bfe37644/raw/smog-target.json)
 ![Rust](https://img.shields.io/badge/rust-stable-orange)
 ![Lint](https://img.shields.io/badge/lint-clippy-blue)
-[![Installer](https://img.shields.io/badge/installer-script-blue)](https://evolvbits.github.io/smog/#install)
+[![Installer](https://img.shields.io/badge/installer-script-blue)](https://orbitbits.github.io/smog/#install)
 [![License](https://img.shields.io/badge/license-proprietary-red)](LICENSE)
 [![AUR version](https://img.shields.io/aur/version/smog-bin)](https://aur.archlinux.org/packages/smog-bin)
 ![Size](https://img.shields.io/badge/size-1.6MB-blue)
@@ -39,12 +39,12 @@ With `smog`, you can:
 
 This repository distributes **official `smog` binary releases only**.
 
-The `smog` source code is proprietary and maintained by `EvolvBits` in a private repository.
+The `smog` source code is proprietary and maintained by `OrbitBits` in a private repository.
 This public repository exists to:
 
 - Provide verified and reproducible binary releases
 - Serve as the official download location
-- Published the `Smog` logo for use on the official EvolvBits website
+- Published the `Smog` logo for use on the official OrbitBits website
 - Receive user feedback, issues, and suggestions
 
 All binaries published here are automatically built through a controlled CI pipeline to ensure authenticity and integrity.
@@ -53,11 +53,11 @@ For full documentation and usage guides, visit the official pages below.
 
 ## Official page
 
-[https://evolvbits.github.io/smog/](https://evolvbits.github.io/smog/)
+[https://orbitbits.github.io/smog/](https://orbitbits.github.io/smog/)
 
 ## Documentation
 
-[https://evolvbits.github.io/smog/documentation/](https://evolvbits.github.io/smog/documentation/)
+[https://orbitbits.github.io/smog/documentation/](https://orbitbits.github.io/smog/documentation/)
 
 ## Community
 
@@ -66,4 +66,4 @@ For full documentation and usage guides, visit the official pages below.
 
 ---
 
-© [Evolvbits](https://evolvbits.github.io) - All rights reserved.
+© [OrbitBits](https://orbitbits.github.io) - All rights reserved.

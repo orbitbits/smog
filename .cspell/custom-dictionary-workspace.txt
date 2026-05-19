@@ -3,6 +3,6 @@ smog
 canin
 williamcanin
 evolv
-evolvbits
+orbitbits
 keyserver
 openpgp

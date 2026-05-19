@@ -3,7 +3,7 @@ set -euo pipefail
 
 # ===== Config =====
 NAME="smog"
-REPO="evolvbits/smog"
+REPO="orbitbits/smog"
 DIST_BRANCH="binaries"
 BASE_URL="https://raw.githubusercontent.com/${REPO}/${DIST_BRANCH}"
 INSTALL_DIR="/usr/local/bin"

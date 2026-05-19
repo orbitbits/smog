@@ -1,12 +1,12 @@
 # Smog Trademark and Visual Identity Policy
 
-Copyright © 2026 EvolvBits. All rights reserved.
+Copyright © 2026 OrbitBits. All rights reserved.
 
 ---
 
 ## 1. Ownership
 
-The name **“Smog”**, the **Smog logo**, and all associated brand assets are the exclusive intellectual property of `EvolvBits`.
+The name **“Smog”**, the **Smog logo**, and all associated brand assets are the exclusive intellectual property of `OrbitBits`.
 
 This document defines the permitted use of the `Smog` name and visual identity.
 
@@ -25,7 +25,7 @@ The license provided with the `Smog` binary applies **only to the use of the sof
 You may:
 
 * Refer to `Smog` factually (e.g., “Installed using `Smog`")
-* Link to the official EvolvBits repository and releases
+* Link to the official OrbitBits repository and releases
 * Mention `Smog` in documentation, tutorials, or educational materials
 * Use the unmodified logo solely to link directly to the official `Smog` repository
 
@@ -47,7 +47,7 @@ You may not:
 
 ## 5. Commercial Use
 
-Any commercial use of the `Smog` name or visual identity requires prior written authorization from `EvolvBits`.
+Any commercial use of the `Smog` name or visual identity requires prior written authorization from `OrbitBits`.
 
 ---
 
@@ -61,7 +61,7 @@ Unauthorized use of the `Smog` name or visual identity may result in legal actio
 
 For questions regarding this policy, please contact:
 
-**[evolvbits@gmail.com](mailto:evolvbits@gmail.com)**
+**[contact.orbitbits@gmail.com](mailto:contact.orbitbits@gmail.com)**
 
 ---
 

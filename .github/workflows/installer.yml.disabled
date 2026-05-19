@@ -27,22 +27,22 @@
 #           cp installer/linux.sh _site/installer/linux.sh
 #           chmod +x _site/installer/linux.sh
 
-#           # Create index.html to redirect https://evolvbits.github.io/products/smog/
+#           # Create index.html to redirect https://orbitbits.github.io/products/smog/
 
 #           cat << 'EOF' > _site/index.html
 #           <!DOCTYPE html>
 #           <html lang="en">
 #           <head>
 #             <meta charset="UTF-8">
-#             <meta http-equiv="refresh" content="0; url=https://evolvbits.github.io/products/smog/">
+#             <meta http-equiv="refresh" content="0; url=https://orbitbits.github.io/products/smog/">
 #             <meta name="viewport" content="width=device-width, initial-scale=1.0">
 #             <title>Redirecting...</title>
 #             <script>
-#               window.location.href = "https://evolvbits.github.io/products/smog/";
+#               window.location.href = "https://orbitbits.github.io/products/smog/";
 #             </script>
 #           </head>
 #           <body>
-#             <p>Redirecting to <a href="https://evolvbits.github.io/products/smog/">Smog</a>...</p>
+#             <p>Redirecting to <a href="https://orbitbits.github.io/products/smog/">Smog</a>...</p>
 #           </body>
 #           </html>
 #           EOF
