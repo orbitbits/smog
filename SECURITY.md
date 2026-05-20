@@ -13,7 +13,7 @@ To verify signatures, you first need to import the project's public key:
 
 ```sh
 # Import the public key from a keyserver (e.g., keys.openpgp.org)
-gpg --keyserver keys.openpgp.org --recv-keys E6A5CC75350F3DCE
+gpg --keyserver keys.openpgp.org --recv-keys 6FC4906130203368
 
 # Or, download our public key at https://github.com/orbitbits/pubkey/blob/main/pubkey.asc
 gpg --import pubkey.asc

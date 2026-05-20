@@ -12,7 +12,7 @@
 ![Target](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/williamcanin/9cd2e99c8f6108b24fb04994bfe37644/raw/smog-target.json)
 ![Rust](https://img.shields.io/badge/rust-stable-orange)
 ![Lint](https://img.shields.io/badge/lint-clippy-blue)
-[![Installer](https://img.shields.io/badge/installer-script-blue)](https://orbitbits.github.io/smog/#install)
+[![Installer](https://img.shields.io/badge/installer-script-blue)](https://orbitbits.com/smog/#install)
 [![License](https://img.shields.io/badge/license-proprietary-red)](LICENSE)
 [![AUR version](https://img.shields.io/aur/version/smog-bin)](https://aur.archlinux.org/packages/smog-bin)
 ![Size](https://img.shields.io/badge/size-1.6MB-blue)
@@ -53,11 +53,11 @@ For full documentation and usage guides, visit the official pages below.
 
 ## Official page
 
-[https://orbitbits.github.io/smog/](https://orbitbits.github.io/smog/)
+[https://orbitbits.com/smog/](https://orbitbits.com/smog/)
 
 ## Documentation
 
-[https://orbitbits.github.io/smog/documentation/](https://orbitbits.github.io/smog/documentation/)
+[https://orbitbits.com/smog/documentation/](https://orbitbits.com/smog/documentation/)
 
 ## Community
 
@@ -66,4 +66,4 @@ For full documentation and usage guides, visit the official pages below.
 
 ---
 
-© [OrbitBits](https://orbitbits.github.io) - All rights reserved.
+© [OrbitBits](https://orbitbits.com) - All rights reserved.
