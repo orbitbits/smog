@@ -2,6 +2,7 @@
 #
 #
 BRANCH := $(shell git branch --show-current)
+REMOTES := $(shell git remote)
 .DEFAULT_GOAL := help
 
 .PHONY: help commit push push-lease
@@ -24,13 +25,15 @@ commit:
 	fi
 
 push:
-	@echo "Push normal"
-	@git push origin $(BRANCH)
-	@git push hdd $(BRANCH)
-	@git push lab $(BRANCH)
+	@echo "Push normal → branch: $(BRANCH)"
+	@for remote in $(REMOTES); do \
+		echo "  pushing to $$remote..."; \
+		git push $$remote $(BRANCH); \
+	done
 
 push-lease:
-	@echo "Push com --force-with-lease"
-	@git push --force-with-lease origin $(BRANCH)
-	@git push --force-with-lease hdd $(BRANCH)
-	@git push --force-with-lease lab $(BRANCH)
+	@echo "Push --force-with-lease → branch: $(BRANCH)"
+	@for remote in $(REMOTES); do \
+		echo "  pushing to $$remote..."; \
+		git push --force-with-lease $$remote $(BRANCH); \
+	done
